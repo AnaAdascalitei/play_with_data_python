@@ -1,8 +1,11 @@
 # Play_with_data_python
 
 I used the libraries:
+
  *panda - clean, filter and anylize data
  *matplotlib - create bar, charts to view patterns
+
+The code is written in anaconda - spider.
 
 This project processes data from Netflix viewing csv using python. It analyzez personal data to explore The Office U.S. watching habits, such as:
  * cleaning the data by removing unnecessary columns - !not recommended for large scale projects
