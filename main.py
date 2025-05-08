@@ -13,9 +13,9 @@ df = df.drop(['Profile Name', 'Attributes', 'Supplemental Video Type', 'Device T
 
 #print(df.dtypes) #all 3 columns stored as objects; start time, duration, title
 '''
-convert Start time to datetime - panda can undersatan and perform calculations
+convert Start time to datetime - panda can undersatand and perform calculations
 convert Start Time from utc to my time zone - romanian time zone
-convert Duration to timedelta - panda can undersatan and perform calculations
+convert Duration to timedelta - panda can undersatand and perform calculations
 '''
 
 #step 1 - conver Start Time to datetime using panda
